@@ -1,0 +1,13 @@
+name: "My-Website"    
+output_dir: "."
+navbar:
+  title: "My Website"  
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "About"
+      icon: fa-user 
+      href: about.html
+    
